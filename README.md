@@ -1,4 +1,4 @@
-## Forum Project
+## Forum-Project-MVC-React
 
 Responsive forum website built with React and MVC architecture. Utilizes Axios for HTTP requests, JSON-server as a mock backend, and React Router for navigation. Tailwind CSS is used for styling.
 
@@ -16,9 +16,3 @@ Responsive forum website built with React and MVC architecture. Utilizes Axios f
 ### Pages:
 - **List View:** Displays a list of forum posts with the option to view posts by specific users.
 - **Create View:** Allows users to create new forum posts with input fields for username, title, and subject.
-
-  ### Usage:
-1. Clone the repository.
-2. Install dependencies using \`npm install\`.
-3. Start the JSON-server using \`json-server --watch db
-4. 
