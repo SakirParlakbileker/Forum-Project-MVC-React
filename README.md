@@ -4,7 +4,8 @@ Responsive forum website built with React and MVC architecture. Utilizes Axios f
 
 ### GIF
 
-![Screen_Recording_2024-03-10_at_20_11_50_AdobeExpress-ezgif com-video-to-gif-converter](https://github.com/tubayapa/Forum-with-React-MVC/assets/147662888/52c4a1aa-a8b3-44a4-949f-0b1c0fa6946d)
+![311541997-52c4a1aa-a8b3-44a4-949f-0b1c0fa6946d](https://github.com/SakirParlakbileker/Forum-Project-MVC-React/assets/147662891/d438ab8e-b551-4a9f-b506-d9c604b58b76)
+
 
 
 ### Features:
